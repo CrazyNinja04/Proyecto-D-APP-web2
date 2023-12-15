@@ -86,12 +86,6 @@ window.addEventListener("load",async()=>{
     });
 
 
-
-
-
-
-
-
     });
 
 });
